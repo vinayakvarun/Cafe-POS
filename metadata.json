@@ -1,0 +1,6 @@
+{
+  "name": "MyPOS",
+  "description": "Simple POS application for small cafes with digital bill via WhatsApp and Google Sign-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
